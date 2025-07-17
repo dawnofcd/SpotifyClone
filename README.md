@@ -1,4 +1,4 @@
-# 🎧 Spotify Clone – React + Tailwind CSS
+# 🎧 Spotify ClonePlayer – React + Tailwind CSS
 
 A lightweight Spotify UI clone built using **React**, **Tailwind CSS**, and **Context API**. This project demonstrates audio playback, dynamic state management, and a responsive layout inspired by Spotify.
 
