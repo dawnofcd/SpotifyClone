@@ -1,22 +1,28 @@
 # 🎧 Spotify Clone – React + Tailwind CSS
 
-A lightweight Spotify UI clone built with **React**, **Tailwind CSS**, and **Context API**. This project lets you play/pause music, switch tracks, and enjoy a responsive design.
+A lightweight Spotify UI clone built using **React**, **Tailwind CSS**, and **Context API**. This project demonstrates audio playback, dynamic state management, and a responsive design inspired by Spotify.
+
+---
+
+## 📸 Demo
+
+> Coming soon – deploy with [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/)!
 
 ---
 
 ## 🚀 Getting Started
 
-### 1. Clone the project
+### ✅ Prerequisites
+
+- Node.js ≥ 14.x
+- npm ≥ 6.x (or yarn)
+
+### 📥 Clone the repo
 
 ```bash
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/dawncd/spotify-clone.git
 cd spotify-clone
 
-### 2. Install dependencies
-
-npm install --legacy-peer-deps
-# or if needed
-npm install --force
 
 
 
