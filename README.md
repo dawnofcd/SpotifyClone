@@ -12,5 +12,13 @@ A lightweight Spotify UI clone built with **React**, **Tailwind CSS**, and **Con
 git clone https://github.com/your-username/spotify-clone.git
 cd spotify-clone
 
+### 2. Install dependencies
+
+npm install --legacy-peer-deps
+# or if needed
+npm install --force
+
+
+
 
 <img width="2519" height="1214" alt="image" src="https://github.com/user-attachments/assets/f3347e19-7f31-4c5b-9ac7-ab32027e6e5d" />
