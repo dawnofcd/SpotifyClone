@@ -17,7 +17,7 @@ A basic Spotify UI clone built with React, styled using Tailwind CSS, and state 
 bash
 Copy
 Edit
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/dawnftcd/spotify-clone.git
 cd spotify-clone
 
 2. Install dependencies
