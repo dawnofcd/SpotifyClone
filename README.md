@@ -20,5 +20,5 @@ A lightweight Spotify UI clone built using **React**, **Tailwind CSS**, and **Co
 ### 📥 Clone the repo
 
 ```bash
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/dawncd/spotify-clone.git
 cd spotify-clone
